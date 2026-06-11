@@ -18,7 +18,7 @@ ELISA-Analysis/
 - code/ : elisa_analysis.R                   # R script for curve fitting and plotting
 - figures/ : standard_curve_example.png      # Generated standard curve figure
 - notes/ : elisa_protocol.md                 # Simplified ELISA protocol
-- README.md                                  # Project overview and instructions
+- README.md :                                # Project overview and instructions
 
 ---
 
