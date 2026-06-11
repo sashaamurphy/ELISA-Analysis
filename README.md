@@ -35,7 +35,7 @@ The analysis uses a **nonlinear regression model** commonly applied to ELISA dat
 2. Fit nonlinear model to standard curve  
 3. Plot absorbance vs. concentration  
 4. Overlay fitted curve  
-5. (Optional) Estimate unknown sample concentrations  
+5. Estimate unknown sample concentrations (optional)
 
 ### 4. Software
 - R (DESeq2 not required; base R + nls is enough)  
