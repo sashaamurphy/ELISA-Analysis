@@ -52,8 +52,6 @@ The analysis uses a **nonlinear regression model** commonly applied to ELISA dat
 ---
 
 ## How to Run the Analysis
-
-### Option A — R Script
 1. Open `code/elisa_analysis.R`  
 2. Run the script  
 3. A figure will be saved to `figures/standard_curve_example.png`
