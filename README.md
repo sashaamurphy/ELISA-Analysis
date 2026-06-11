@@ -18,8 +18,7 @@ ELISA-Analysis/
 │   └── synthetic_elisa_data.csv        # Fake but realistic ELISA standard curve data
 │
 ├── code/
-│   ├── elisa_analysis.R                # R script for curve fitting and plotting
-│   └── elisa_analysis.ipynb            # Python notebook
+│   └── elisa_analysis.R                # R script for curve fitting and plotting
 │
 ├── figures/
 │   └── standard_curve_example.png      # Generated plot of fitted curve
@@ -58,9 +57,3 @@ The analysis uses a **nonlinear regression model** commonly applied to ELISA dat
 1. Open `code/elisa_analysis.R`  
 2. Run the script  
 3. A figure will be saved to `figures/standard_curve_example.png`
-
-### Option B — Python Notebook
-1. Open `code/elisa_analysis.ipynb`  
-2. Run all cells  
-3. The notebook will generate the same curve and summary
-
