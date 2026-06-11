@@ -1,4 +1,4 @@
-# ELISA Analysis: Standard Curve Modeling & Quantification
+# ELISA Analysis: Introductory Standard Curve Modeling & Quantification
 
 This repository provides a complete, reproducible methodology for **synthetic** ELISA (enzyme-linked immunosorbent assay) data analysis. It demonstrates how to do the following:
 
