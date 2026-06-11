@@ -14,10 +14,8 @@ This repository provides a complete, reproducible methodology for **synthetic** 
 
 ELISA-Analysis/
 
-  data/
-  - synthetic_elisa_data.csv        # Synthetic ELISA standard curve data
-
-  code/
+- data/ : synthetic_elisa_data.csv        # Synthetic ELISA standard curve data
+- code/
   - elisa_analysis.R                # R script for curve fitting and plotting
 
   figures/
