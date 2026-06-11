@@ -13,20 +13,19 @@ This repository provides a complete, reproducible methodology for **synthetic** 
 ## Repository Structure
 
 ELISA-Analysis/
-│
-├── data/
-│   └── synthetic_elisa_data.csv        # Fake but realistic ELISA standard curve data
-│
-├── code/
-│   └── elisa_analysis.R                # R script for curve fitting and plotting
-│
-├── figures/
-│   └── standard_curve_example.png      # Generated plot of fitted curve
-│
-├── notes/
-│   └── elisa_protocol.md               # Simplified ELISA protocol and conceptual notes
-│
-└── README.md                           # Project overview and instructions
+  data/
+    synthetic_elisa_data.csv        # Synthetic ELISA standard curve data
+
+  code/
+    elisa_analysis.R                # R script for curve fitting and plotting
+
+  figures/
+    standard_curve_example.png      # Generated standard curve figure
+
+  notes/
+    elisa_protocol.md               # Simplified ELISA protocol
+
+  README.md                         # Project overview and instructions
 
 ---
 
