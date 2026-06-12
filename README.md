@@ -28,7 +28,7 @@ ELISA-Analysis/
 All data in this repository was generated to mimic a typical ELISA standard curve. No proprietary or laboratory data is included.
 
 ### 2. Standard Curve Modeling
-The analysis uses a **nonlinear regression model** commonly applied to ELISA data, either a 4‑parameter logistic (4PL) model or Michaelis–Menten‑style saturation curve depending on the script you choose.
+The analysis uses a **nonlinear regression model** commonly applied to ELISA data and produces a Michaelis–Menten‑style saturation curve.
 
 ### 3. Analysis Steps
 1. Import synthetic CSV data  
