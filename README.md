@@ -38,8 +38,7 @@ The analysis uses a **nonlinear regression model** commonly applied to ELISA dat
 5. Estimate unknown sample concentrations (optional)
 
 ### 4. Software
-- R (DESeq2 not required; base R + nls is enough)  
-- Python (pandas, scipy, matplotlib)  
+- R or RStudio
 
 ---
 
